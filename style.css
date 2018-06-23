@@ -1,0 +1,33 @@
+h1{color: red}
+
+
+h2{
+    border: 2px ridge brown;
+    display: inline
+}
+
+body{background-color: palegreen}
+
+.linkbutton {
+    background-color: lightgray;
+    border: 1px solid darkgray;
+    margin: 0 auto;
+    color:white;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    padding-left: 0px;
+    text-align: center;
+
+}
+
+.linkbutton:hover {
+    cursor: crosshair;
+    <img src="cake.jpg">
+    img {
+        -webkit-filter: invert(1)
+        filter: invert(1);
+    }
+    
+}
+
